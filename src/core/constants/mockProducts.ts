@@ -10,7 +10,7 @@ const mockProducts: Product[] = [
     model: "AN515-54-58CL",
     image:
       "https://firebasestorage.googleapis.com/v0/b/formacao-dev.appspot.com/o/lancamentos%2Fgam3rstore%2Facer-nitro-5.png?alt=media&token=094ba6a8-1a4d-414a-b32c-c176bfeaca8e",
-    grade: 4.5,
+    grade: 2.5,
     videoReview:
       "https://www.youtube.com/embed/8NQFr9De3lU?si=s_lN2KTQresD-36Y",
     tags: ["Baixou"],
@@ -122,7 +122,7 @@ const mockProducts: Product[] = [
     model: "TUF A15 FA506IV",
     image:
       "https://firebasestorage.googleapis.com/v0/b/formacao-dev.appspot.com/o/lancamentos%2Fgam3rstore%2Fasus-tuf-a15.png?alt=media&token=989d3375-f26b-4ada-a920-afa41dfdb8de",
-    grade: 5,
+    grade: 1.5,
     videoReview:
       "https://www.youtube.com/embed/v-LmH_Gfnn8?si=IGQmsvb-eZyDInwV",
     tags: ["Oportunidade"],
@@ -151,7 +151,7 @@ const mockProducts: Product[] = [
     model: "GL65 Leopard 10SFK-062",
     image:
       "https://firebasestorage.googleapis.com/v0/b/formacao-dev.appspot.com/o/lancamentos%2Fgam3rstore%2Fmsi-gl65.png?alt=media&token=24798828-8546-4720-bfe7-f813f4e78507",
-    grade: 4,
+    grade: 0.5,
     videoReview:
       "https://www.youtube.com/embed/uT-YHREKDaE?si=Z7e2lk9G-H7-cghs",
     tags: ["Melhor RTX 2070"],
